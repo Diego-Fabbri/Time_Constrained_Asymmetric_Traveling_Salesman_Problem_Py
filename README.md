@@ -4,7 +4,7 @@ A **Mixed Integer Linear Programming (MILP)** model in **Python** for the **Asym
 
 ## Overview
 
-The Asymmetric Traveling Salesman Problem with Time Windows (ATSPTW) is a classic combinatorial optimization problem in Operations Research. A traveler starts from a depot, visits a set of nodes exactly once, and returns to the depot — respecting a time window at each node and an asymmetric travel time matrix (i.e., the travel time from node $i$ to node $j$ may differ from the travel time from $j$ to $i$).
+The Asymmetric Traveling Salesman Problem with Time Windows (ATSPTW) is a classic optimization problem in Operations Research. A traveler starts from a depot, visits a set of nodes exactly once, and returns to the depot — respecting a time window at each node and an asymmetric travel time matrix (i.e., the travel time from node $i$ to node $j$ may differ from the travel time from $j$ to $i$).
 
 The objective is **makespan minimization**: finding the route that minimizes the total time to complete the tour.
 
